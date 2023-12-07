@@ -1,0 +1,11 @@
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\bin\Release\net6.0\OfficialTeamUpRequestModels.deps.json
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\bin\Release\net6.0\OfficialTeamUpRequestModels.dll
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\bin\Release\net6.0\OfficialTeamUpRequestModels.pdb
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.AssemblyInfoInputs.cache
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.AssemblyInfo.cs
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.csproj.CoreCompileInputs.cache
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.dll
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\refint\OfficialTeamUpRequestModels.dll
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\OfficialTeamUpRequestModels.pdb
+C:\Users\ocpos\source\repos\OfficialTeamUpRequestModels\OfficialTeamUpRequestModels\obj\Release\net6.0\ref\OfficialTeamUpRequestModels.dll
